@@ -5,6 +5,7 @@
 <h1> Data warehouse app  </h1>
 <h2> Resources/technologies used:</h2>
 <ul>
+<li>Html/Css/Bootstrap</li>
 <li>JS</li>
 <li>Node.js</li>
 <li>Express</li>
