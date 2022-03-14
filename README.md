@@ -4,6 +4,10 @@
 
 <h1> Data warehouse app  </h1>
 
+ Contact Management FullStack App,includes
+contact/companies/countries CRUD, and a login system with role based
+authorization
+
 ![exampleimg](https://raw.githubusercontent.com/Agusmac/DataWarehouse/master/Examples/ExampleImg.png)
 
 
