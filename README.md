@@ -34,10 +34,10 @@
 <code>node server</code>
 
 
+<h3>That's it, you can already use the App</h3>
+
+
 ![img2](https://raw.githubusercontent.com/Agusmac/DataWarehouse/master/Examples/ExampleImg2.png)
 
-
-
-<h3>That's it, you can already use the App</h3>
 <p>Open the index.html file (Front folder) </p>
 <p>Login with -testuser-: -123- (user) or -testAdmin-: -123- (admin)</p>
