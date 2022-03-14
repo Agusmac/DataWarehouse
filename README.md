@@ -3,6 +3,10 @@
 
 
 <h1> Data warehouse app  </h1>
+
+![exampleimg](https://raw.githubusercontent.com/Agusmac/DataWarehouse/master/Examples/ExampleImg.png)
+
+
 <h2> Resources/technologies used:</h2>
 <ul>
 <li>Html/Css/Bootstrap</li>
